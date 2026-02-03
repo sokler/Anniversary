@@ -335,3 +335,9 @@ a.maps {
 a.maps button::before {
   color: #fff;
 }
+
+/* @media (max-width: 768px) {
+  .envlope-wrapper {
+    transform: scale(0.85);
+  }
+} */
